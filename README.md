@@ -4,4 +4,6 @@
 
 ---
 
+![](https://raw.githubusercontent.com/xiao0232/xiao0232/master/profile-3d-contrib/profile-green-animate.svg)
+
 ![typograssy](<https://typograssy.vercel.app/api?text=xiao0232&frame=ffffff&comment=%20(%20%C2%B4%20%E2%88%80%EF%BD%80*)>)
